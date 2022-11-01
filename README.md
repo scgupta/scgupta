@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **statistics**
 - 👀 I’m interested in **applying ML in real-world**
 - 💡 I’m looking for tips for **making illustrations**
-- 📝 Subscribe my [Machine Learning for Developers (ML4Devs)](https://www.ML4Devs.com/newsletter) newsletter
+- 📝 Subscribe to [Machine Learning for Developers (ML4Devs)](https://www.ML4Devs.com/newsletter) newsletter
 - 💬 Ask me about **Data and ML Engineering**
 
 <h3 align="left">Connect with me:</h3>
