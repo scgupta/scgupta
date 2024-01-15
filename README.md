@@ -30,8 +30,10 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 </p>
 
-### ⚡ GitHub Stats
+### GitHub Stats:
 ![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=scgupta&show_icons=true&theme=transparent)
+
+![Satish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scgupta&layout=compact&theme=transparent&exclude_repo=scgupta.github.io,ml4devs.github.io)
 
 <!--
 <h3 align="left">Support:</h3>
